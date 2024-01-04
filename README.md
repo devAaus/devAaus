@@ -7,7 +7,7 @@ Front-end web developer
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [MyWebsite](http://aayush-ghimire.com.np)
 * ✉️  You can contact me at [aausgh@gmail.com](mailto:aausgh@gmail.com)
-* 🧠  I'm learning React JS
+* 🧠  I'm learning Front end development
 
 ### Skills
 
