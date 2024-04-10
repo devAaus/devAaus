@@ -7,7 +7,7 @@ Web developer
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [MyWebsite](http://aayush-ghimire.com.np)
 * ✉️  You can contact me at [aausgh@gmail.com](mailto:aausgh@gmail.com)
-* 🧠  I'm learning Web development
+* 🧠  I'm learning Full Stack Web development
 
 ### Skills
 
