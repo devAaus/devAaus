@@ -1,7 +1,7 @@
 Hi 👋 My name is Aayush Ghimire
 ===============================
 
-Front-end web developer
+Web developer
 -----------------------
 
 * 🌍  I'm based in Nepal
