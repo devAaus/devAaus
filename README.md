@@ -5,7 +5,7 @@ Web developer
 -----------------------
 
 * 🌍  I'm based in Nepal
-* 🖥️  See my portfolio at [Portfolio](http://aayush-ghimire.com.np)
+* 🖥️  See my portfolio at [Aayush Ghimire](http://aayush-ghimire.com.np)
 * ✉️  You can contact me at [aausgh@gmail.com](mailto:aausgh@gmail.com)
 * 🧠  I'm learning Full Stack Web development
 
@@ -61,6 +61,6 @@ Web developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/devAaus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devAaus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/devAaus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAaus&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/devAaus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devAaus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
