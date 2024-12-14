@@ -34,7 +34,7 @@ Software developer
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
-  <br/>
+  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
@@ -44,6 +44,13 @@ Software developer
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/nextjs.svg" width="36" height="36" alt="NextJs" />
   </a>
+  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/react-query.svg" width="36" height="36" alt="Tanstack Query" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/redux.svg" width="36" height="36" alt="Redux" />
+  </a>
+  
 
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
@@ -51,7 +58,10 @@ Software developer
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/shadcnui.svg" width="36" height="36" alt="Shadcn UI" />
   </a>
-<br/>
+  <a href="https://www.chakra-ui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/chakraui.svg" width="36" height="36" alt="Chakra UI" />
+  </a>
+
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
   </a>
@@ -63,6 +73,12 @@ Software developer
   </a>
   <a href="https://www.prisma.io/docs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/prisma.svg" width="36" height="36" alt="Prisma" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/mongodb.svg" width="36" height="36" alt="MongoDB" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
 </p>
 
