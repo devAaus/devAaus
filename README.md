@@ -56,7 +56,7 @@ Software developer
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJs" />
   </a>
   <a href="https://www.prisma.io/docs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/prisma-colored.svg" width="36" height="36" alt="Prisma" />
+    <img src="https://raw.githubusercontent.com/microsoft/vscode-icons/main/icons/file_type_prisma.svg" width="36" height="36" alt="Prisma" />
   </a>
 </p>
 
