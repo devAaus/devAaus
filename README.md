@@ -1,13 +1,13 @@
 Hi 👋 My name is Aayush Ghimire
 ===============================
 
-Web developer
+Software developer
 -----------------------
 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [Aayush Ghimire](http://aayush-ghimire.com.np)
 * ✉️  You can contact me at [aausgh@gmail.com](mailto:aausgh@gmail.com)
-* 🧠  I'm learning Full Stack Web development
+* 🧠  I'm learning Full Stack development
 
 ### Skills
 
